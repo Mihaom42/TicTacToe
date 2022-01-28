@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  AIContent.cpp
+  CheckInputData.cpp
+  Field.cpp
+  GameMode.cpp
+  Player.cpp
+  TicTacToe.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 72 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  TicTacToe.vcxproj -> C:\Users\leham\Desktop\TicTacToe\Release\TicTacToe.exe
